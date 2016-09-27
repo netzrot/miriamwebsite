@@ -1,0 +1,62 @@
+body {
+	background-color: white;
+	border: 1px;
+	border-color: grey;
+}
+
+.menu {
+	display: inline-block;
+	float: right;
+	margin-left: 40px
+	margin-right: 20px;
+}
+
+.navi {
+	display: inline-block;
+	color: grey;
+	font-family: Verdana, Century Gothic, serif;
+	margin-right: 40px;
+}
+
+.welcome {
+	color: black;
+	font-style: italic;
+	font-size: 3em;
+	clear: both;
+	margin-left: 100px;
+	margin-top: 200px;
+	font-family: Garamond, Didot, serif;
+	font-weight: bold;
+	position: relative;
+	top: 100px;
+}
+
+.intro {
+	color: grey;
+	font-family: Verdana, Century Gothic, serif;
+	height: 100px;
+	margin-left: 100px;
+	position: relative;
+	top: 100px;
+}
+
+
+
+.images {
+	display: inline-block;
+	padding: 5px;
+	margin-bottom: 0px;
+	position: relative;
+	top: 250px;
+}
+
+a {
+	text-decoration: none;
+	color: grey;
+}
+
+a:hover {
+	text-decoration: underline;
+
+}
+
